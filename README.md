@@ -1,1 +1,1 @@
-# django5
+# django.5
